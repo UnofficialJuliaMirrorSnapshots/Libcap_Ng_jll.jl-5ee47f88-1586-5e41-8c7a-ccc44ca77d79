@@ -1,0 +1,10 @@
+name = "Libcap_Ng_jll"
+uuid = "5ee47f88-1586-5e41-8c7a-ccc44ca77d79"
+version = "0.7.10+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
